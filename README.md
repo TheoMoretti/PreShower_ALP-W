@@ -2,7 +2,7 @@
 The aim of this code is to study the generation of Axion Like Particles (ALP) from the the Interaction Point of the ATLAS experiment using the LHC at CERN. This code also aims at studying the decays of such particles into 2 photons at the precise location where the FASER experiment is.
 
 The project is separated into 2 main parts:
- * The first part of the project is a Jupyter Notebook which allows one to pick a masS point from the set of already generated (INSERT NUMBER HERE) different mass points for the ALP-W model. The code will then allow one to look at the different aspects of the ALP inside FASER but also to look as the different aspects of the di-photons decay products from the ALP inside FASER for any value of the coupling one wants to have in the ALP-W model.
+ * The first part of the project is a Jupyter Notebook which allows one to pick a masS point from the set of already generated 44 different mass points for the ALP-W model. The code will then allow one to look at the different aspects of the ALP inside FASER but also to look as the different aspects of the di-photons decay products from the ALP inside FASER for any value of the coupling one wants to have in the ALP-W model.
  
  The possibility to also generate any mass point requires one to download the associated code and generate the mass point by himself since it requires specific packages like Pythia which are not disponible on the Jupyter Notebook.
  
